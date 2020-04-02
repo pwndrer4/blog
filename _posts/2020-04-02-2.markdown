@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title:  "iOS13.4安全漏洞披露，Chimera初版可能不支持A12/13，A7~A11双系统可期"
 date:   2020-04-02 17:05:13 +0000
@@ -20,7 +20,7 @@ A9~A11双系统有望，正如之前checkm8漏洞发布时我推测的一样，�
 
 老一代的玩家都知道 iPhone4S、iPhone5、iPhone5C是可以实现双系统的，CoolBooter。下图为iPhone5 iOS9与iOS6经典双系统。
 
-近期有黑客在推特晒图，iPhone8 iOS13.3与iOS13.3.1实现双系统。小雷锋大胆猜测，在可以预期的未来，将有类似CoolBooter的程序，实现A7~A11双系统。
+近期有黑客在推特晒图，iPhone8 iOS13.3与iOS13.3.1实现双系统。大胆猜测，在可以预期的未来，将有类似CoolBooter的程序，实现A7~A11双系统。
 
 
 
