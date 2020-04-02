@@ -1,4 +1,4 @@
----
+﻿---
 layout: page
 title: 关于我们
 permalink: /about/
@@ -15,7 +15,7 @@ permalink: /about/
 
 你的捐助能帮助我们更好的折腾。
 
-最后 感谢您对Allan源™的支持
+最后 感谢您对Alan源™的支持
 
  Alan源™
 
