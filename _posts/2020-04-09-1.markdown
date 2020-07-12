@@ -1,9 +1,0 @@
-﻿---
-layout: post
-title:  "13.4.1 linux越狱
-
-"
-date:   2020-04-09 17:05:13 +0000
-categories: jekyll update
----
-最新checkra1n越狱，已经集成linux版本，下载地址：          https://share.weiyun.com/5Xb032X
